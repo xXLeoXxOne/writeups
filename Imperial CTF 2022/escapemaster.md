@@ -71,5 +71,5 @@ Done!
 We sent the path to our agent. Let's see if he makes it.
 You did it! Agent Lee has been extracted!
 Here is a token of our appreciation:
-ICTF{l33_s_4lg0r1thm_h4s_a_w0r5t_cas3_c0mpl3x1ty_0f_n_squ4r3d}
+ICTF{redacted}
 ```
