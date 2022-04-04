@@ -29,8 +29,8 @@ I needed to convert it to a matrix of weights first so that the tool can underst
 Lets just replace the `#`'s with 0 and everything else with 1.
 
 ```python
-
-lab = list(map(lambda x: list(map(lambda y: int(y.replace("#", "0").replace("O", "1").replace("L", "1").replace("H", "1")), x)),lab)) # A very complex way of replacing everything in the matrix
+# A very complex way of replacing everything in the matrix
+lab = list(map(lambda x: list(map(lambda y: int(y.replace("#", "0").replace("O", "1").replace("L", "1").replace("H", "1")), x)),lab))
 ```
 And then solving it with the pathfinding package:
 
