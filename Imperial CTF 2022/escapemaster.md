@@ -18,8 +18,8 @@ conn = p.remote("192.168.125.100",9003)
 conn.recvuntil(b'Ready? (Y/N)')
 conn.sendline("Y")
 
-# Getting and parsing the labyrinth
-lab = list(map(lambda x: list(x),conn.recvuntil("\n\n").decode().strip().replace(" ","").split("\n"))) # Receiving the whole maze, then removing the spaces and splitting everything
+# Getting and parsing the labyrinth by removing spaces & splitting into a matrix
+lab = list(map(lambda x: list(x),conn.recvuntil("\n\n").decode().strip().replace(" ","").split("\n")))
 ```
 
 ## Actually solving the maze
