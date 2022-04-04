@@ -24,7 +24,7 @@ lab = list(map(lambda x: list(x),conn.recvuntil("\n\n").decode().strip().replace
 
 ## Actually solving the maze
 
-To make it easier, I searched for a good pathfinding algorithm on the internet and found this one: [pathfinding](https://pypi.org/project/pathfinding/)
+To make it easier, I searched for a good pathfinding algorithm on the internet and found this one: [pathfinding](https://pypi.org/project/pathfinding/)</br>
 I needed to convert it to a matrix of weights first so that the tool can understand it.
 Lets just replace the `#`'s with 0 and everything else with 1.
 
