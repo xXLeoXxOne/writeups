@@ -19,6 +19,7 @@ I filtered all the files for any kind of image file and finally found the screen
 <br/>The filename is `19422F1B-6C19-4190-9674-0D1C5AEC5451.png`
 
 <img src="./Screenshot/19422F1B-6C19-4190-9674-0D1C5AEC5451.png" width="400" height="224" />
+
 ## Pt. 2
 
 In this part, we need to find the MD5 hash of the associated LNK File... I attempted to create it myself but realized that there is information inside LNK files, that we cannot know.<br/>I was on the verge of giving up and thought that maybe not all of the files got exported... I used FTK Imager once again to export a list of all files as inside the image as .csv:
