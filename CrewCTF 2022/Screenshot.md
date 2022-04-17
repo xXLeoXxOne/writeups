@@ -6,7 +6,7 @@ We are given a .ad1 File and we need to find several things inside.
 
 The first challenge is to find the name of the secret file. The description hints that we might need to find an image.
 To get a better overview of the files, I extracted the .ad1 image with FTK Imager.
-<img src="./Screenshot/exporting.jpg" width="360" height="140" />
+<br/><img src="./Screenshot/exporting.jpg" width="360" height="140" /><br/>
 Now that we have got the files, we can start searching for the screenshot. As Windows somehow did not find all the files, I used Linux to do this job.<br/>
 With the use of 
 <br/>`find . -name '*' -exec file {} \; | grep -o -P '^.+: \w+ image' `
