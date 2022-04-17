@@ -34,16 +34,16 @@ The json file has objects that look like this now:
 
 ```json
 "usbhid.data_tree": {
-          "usbhid.data.report_id": "0x01",
-          "usbhid.data.axis.x": "123",
-          "usbhid.data.axis.y": "124",
-          "usbhid.data.axis.z": "123",
-          "usbhid.data.axis.rz": "124",
-          "usbhid.item.local.usage": "0x39",
-          "usbhid.data.button1": "0",
-          "usbhid.data.button2": "0",
-          "usbhid.data.button3": "0",
-            ...
+    "usbhid.data.report_id": "0x01",
+    "usbhid.data.axis.x": "123",
+    "usbhid.data.axis.y": "124",
+    "usbhid.data.axis.z": "123",
+    "usbhid.data.axis.rz": "124",
+    "usbhid.item.local.usage": "0x39",
+    "usbhid.data.button1": "0",
+    "usbhid.data.button2": "0",
+    "usbhid.data.button3": "0",
+...
 ```
 Important for us are just the x & y axis as well as the 2nd button which indicates if the user is drawing.
 ### Compressing the data
