@@ -104,7 +104,6 @@ for e in f:
         t.pendown()
     else:
         t.penup()
-    print(e["usbhid.data.axis.x"],e["usbhid.data.axis.y"],e["usbhid.data.axis.z"],e["usbhid.data.axis.rz"],e["usbhid.data.button2"],e["usbhid.data.button7"],e["usbhid.data.axis.rx"])
 
 p = input()
 ```
