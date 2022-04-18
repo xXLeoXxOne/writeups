@@ -26,7 +26,8 @@ jobs:
   replace:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
       - name: Remove .md
         uses: jacobtomlinson/gha-find-replace@v2
         with:
