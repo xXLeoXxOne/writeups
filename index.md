@@ -3,6 +3,8 @@ Writeups for some CTF challenges I solved during events!
 
 My team: [upbhack](https://ctftime.org/team/57581)
 
+---
+
 ### CrewCTF 2022
 - #### [Paint | Misc](https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Paint.md)
 - #### [Em31l Pt.1-3 | Forensic](https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Screenshot.md)
