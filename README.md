@@ -7,8 +7,8 @@
 
 ### CrewCTF 2022
 - #### [Paint | Misc](https://github.com/xXLeoXxOne/writeups/blob/main/CrewCTF%202022/Paint.md)
-- #### [Em31l Pt.1-3 | Forensic](https://github.com/xXLeoXxOne/writeups/blob/main/CrewCTF%202022/Screenshot.md)
-- #### [Screenshot Pt.1-2 | Forensic](https://github.com/xXLeoXxOne/writeups/blob/main/CrewCTF%202022/Em31l.md)
+- #### [Em31l Pt.1-3 | Forensic](https://github.com/xXLeoXxOne/writeups/blob/main/CrewCTF%202022/Em31l.md)
+- #### [Screenshot Pt.1-2 | Forensic](https://github.com/xXLeoXxOne/writeups/blob/main/CrewCTF%202022/Screenshot.md)
 - #### [Policy Violation Pt.1-2 | Forensic](https://github.com/xXLeoXxOne/writeups/blob/main/CrewCTF%202022/PolicyViolation.md)
 
 ### Imperial CTF 2022
