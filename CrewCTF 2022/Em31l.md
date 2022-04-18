@@ -1,5 +1,5 @@
 ---
-permalink: /bar/
+permalink: /Em31l/
 ---
 
 # Em31l
