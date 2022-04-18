@@ -1,9 +1,6 @@
 name: Sync main to gh-pages
 
-on:
-  push:
-    branches:
-      - main
+on: push
 
 jobs:
   sync-branches:
