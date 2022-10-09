@@ -16,3 +16,6 @@
 
 ### Imperial CTF 2022
 - #### [Escape Master | Misc](Imperial%20CTF%202022/escapemaster.md)
+
+### CyberSecurityRumble 2022
+- #### [V1RUSCHECK0R3000](CyberSecurityRumble%202022/V1RUSCHECK0R3000.md)
