@@ -11,6 +11,7 @@
 ### CyberSecurityRumble 2022
 - #### [V1RUSCHECK0R3000](CyberSecurityRumble%202022/V1RUSCHECK0R3000.md)
 - #### [SCRAMBLE](CyberSecurityRumble%202022/SCRAMBLE.md)
+- #### [ROBERTISAGANGSTA](CyberSecurityRumble%202022/ROBERTISAGANGSTA.md)
 
 ### CrewCTF 2022
 - #### [Paint | Misc](CrewCTF%202022/Paint.md)
