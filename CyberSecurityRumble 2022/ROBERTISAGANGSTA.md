@@ -26,7 +26,7 @@ I quickly saw that we are not supposed to know the activation code, as it is ran
 
 That helped me to solve the first problem by generating a 5000+ digit long number to successfully sign up.
 
-## Getting admin
+## Getting admin privileges
 
 The userid is created by concatting "1", the groupid and the userid from the form, which are restricted to 3 and 4 characters. Setting these numbers to 999 gave me the userid 19,999,999 which is still not high enough. I noticed that json.loads is used to put the userid into a json object
 
