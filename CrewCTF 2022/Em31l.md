@@ -1,7 +1,3 @@
----
-permalink: /Em31l/
----
-
 # Em31l
 ## Pt. 1
 We get an email file (.eml) and the challenge is to find out what was deleted from the file...
