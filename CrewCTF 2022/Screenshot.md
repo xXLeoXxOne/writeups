@@ -11,7 +11,7 @@ We are given a .ad1 File and we need to find several things inside.
 The first challenge is to find the name of the secret file. The description hints that we might need to find an image.
 To get a better overview of the files, I extracted the .ad1 image with FTK Imager.
 
-<img src="./Screenshot/exporting.jpg" width="360" height="140" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Screenshot/exporting.jpg" width="360" height="140" />
 
 
 Now that we have got the files, we can start searching for the screenshot. As Windows somehow did not find all the files, I used Linux to do this job.<br/>
@@ -22,13 +22,13 @@ With the use of
 I filtered all the files for any kind of image file and finally found the screenshot inside of the ScreenSketch Folder, which is a tool that comes with Windows, specifically the `TempState` Folder (`AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState`).
 <br/>The filename is `19422F1B-6C19-4190-9674-0D1C5AEC5451.png`
 
-<img src="./Screenshot/19422F1B-6C19-4190-9674-0D1C5AEC5451.png" width="400" height="224" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Screenshot/19422F1B-6C19-4190-9674-0D1C5AEC5451.png" width="400" height="224" />
 
 ## Pt. 2
 
 In this part, we need to find the MD5 hash of the associated LNK File... I attempted to create it myself but realized that there is information inside LNK files, that we cannot know.<br/>I was on the verge of giving up and thought that maybe not all of the files got exported... I used FTK Imager once again to export a list of all files as inside the image as .csv:
 
-<img src="./Screenshot/filelist.jpg" width="430" height="150" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Screenshot/filelist.jpg" width="430" height="150" />
 
 Works!
 With the help of `STRG+F` I searched for "ScreenSketch" and there were actually some weirdly named lnk files inside!

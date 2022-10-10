@@ -6,7 +6,7 @@ permalink: /CyberSecurityRumble%202022/THREELITTLEKEYS/
 
 This challenge gives us an apk file. After opening it, it showed us 3 keys. The first one instantly turns green after clicking it, the second one wants us to enter something and the third one throws an error.
 
-<img src="./THREE%20LITTLE%20KEYS/1.jpg" width="300" height="216" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CyberSecurityRumble%202022/THREE%20LITTLE%20KEYS/1.jpg" width="300" height="216" />
 
 ## First Key
 
@@ -95,4 +95,4 @@ The encrypted `FLAG` was at the top of that class and I got the variable "string
 
 And one of the combinations gave me the correct flag!
 
-<img src="./THREE%20LITTLE%20KEYS/2.jpg" width="300" height="400" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CyberSecurityRumble%202022/THREE%20LITTLE%20KEYS/2.jpg" width="300" height="400" />
