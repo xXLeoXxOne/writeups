@@ -1,5 +1,5 @@
 ---
-permalink: /Screenshot/
+permalink: /CrewCTF%202022/Screenshot/
 ---
 
 # Screenshot

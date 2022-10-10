@@ -1,5 +1,5 @@
 ---
-permalink: /ROBERTISAGANGSTA/
+permalink: /CyberSecurityRumble%202022/ROBERTISAGANGSTA/
 ---
 
 # ROBERTISAGANGSTA

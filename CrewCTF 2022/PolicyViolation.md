@@ -1,5 +1,5 @@
 ---
-permalink: /PolicyViolation/
+permalink: /CrewCTF%202022/PolicyViolation/
 ---
 
 # Policy Violation

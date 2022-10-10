@@ -1,5 +1,5 @@
 ---
-permalink: /V1RUSCHECK0R3000/
+permalink: /CyberSecurityRumble%202022/V1RUSCHECK0R3000/
 ---
 
 # V1RUSCHECK0R3000

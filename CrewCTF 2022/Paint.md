@@ -1,5 +1,5 @@
 ---
-permalink: /Paint/
+permalink: /CrewCTF%202022/Paint/
 ---
 
 # Paint

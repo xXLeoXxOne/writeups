@@ -1,5 +1,5 @@
 ---
-permalink: /Em31l/
+permalink: /CrewCTF%202022/Em31l/
 ---
 
 # Em31l

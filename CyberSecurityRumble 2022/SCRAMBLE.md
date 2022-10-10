@@ -1,5 +1,5 @@
 ---
-permalink: /SCRAMBLE/
+permalink: /CyberSecurityRumble%202022/SCRAMBLE/
 ---
 
 # SCRAMBLE

@@ -1,5 +1,5 @@
 ---
-permalink: /THREELITTLEKEYS/
+permalink: /CyberSecurityRumble%202022/THREELITTLEKEYS/
 ---
 
 # THREE LITTLE KEYS

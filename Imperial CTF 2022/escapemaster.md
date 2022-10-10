@@ -1,5 +1,5 @@
 ---
-permalink: /EscapeMaster/
+permalink: /Imperial%20CTF%202022/EscapeMaster/
 ---
 
 # Escape Master
