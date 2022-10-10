@@ -1,3 +1,7 @@
+---
+permalink: /PolicyViolation/
+---
+
 # Policy Violation
 We are given an Image. From previous challenges I knew, that files with a .E01 extension are supposed to be opened with [Autopsy](https://www.autopsy.com/).
 

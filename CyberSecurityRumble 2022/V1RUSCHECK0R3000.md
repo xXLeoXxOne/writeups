@@ -1,3 +1,7 @@
+---
+permalink: /V1RUSCHECK0R3000/
+---
+
 # V1RUSCHECK0R3000
 
 We are given a website where we are able to look into the source code. After some investigation, I found out that the site lets you upload a file not bigger than 100 bytes, scan it using clamscan and then tell you if the file is a virus or not. 

@@ -1,3 +1,7 @@
+---
+permalink: /SCRAMBLE/
+---
+
 # SCRAMBLE
 
 This challenge was kinda like Wordle, with the twist that you had to guess a completely random string. The game gives you a wordlist of 12000 words and the requirement to get the flag was, to solve 100 games in less than 500 total guesses. After failing 5 times for one game, we get a new game but without getting a new solve.

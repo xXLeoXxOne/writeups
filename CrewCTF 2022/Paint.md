@@ -1,3 +1,7 @@
+---
+permalink: /Paint/
+---
+
 # Paint
 
 We are given a .pcap file and the hint that the file was captured while somebody was drawing something on a ps4. Inside many HID packets.<br/>

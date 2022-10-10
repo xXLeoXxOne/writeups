@@ -1,3 +1,7 @@
+---
+permalink: /THREELITTLEKEYS/
+---
+
 # THREE LITTLE KEYS
 
 This challenge gives us an apk file. After opening it, it showed us 3 keys. The first one instantly turns green after clicking it, the second one wants us to enter something and the third one throws an error.

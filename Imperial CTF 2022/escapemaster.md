@@ -1,3 +1,7 @@
+---
+permalink: /EscapeMaster/
+---
+
 # Escape Master
 
 We are given an IP and port to connect via netcat.

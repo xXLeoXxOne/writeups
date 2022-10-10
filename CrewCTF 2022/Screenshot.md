@@ -1,3 +1,7 @@
+---
+permalink: /Screenshot/
+---
+
 # Screenshot
 
 We are given a .ad1 File and we need to find several things inside.
