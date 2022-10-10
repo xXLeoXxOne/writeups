@@ -8,7 +8,7 @@ This challenge gives us an apk file. After opening it, it showed us 3 keys. The 
 
 I decompiled the .dex file and got many folders to search through. I opened the most important main class for the app in `de/cybersecurityrumble/threelittlekeys` and took a closer look at how the app actually works.<br>After clicking a button, the corresponding method in another class gets run. I found that class in `c/a/a/c` and quickly saw the method for the first key. 
 
-```Java
+```java
 public boolean checkFirstKey() {
         String num = Integer.toString(new Random(3762).nextInt(8000));
         this.f1665a = num;
