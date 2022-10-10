@@ -8,7 +8,7 @@ We are given a .pcap file and the hint that the file was captured while somebody
 Lets open it with wireshark! <br/>
 At first I didn't see the HID Data Tab inside Wireshark but after trying other things I finally saw it:
 
-<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Paint/hiddata.png" width="500" height="350" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Paint/hiddata.png?raw=true" width="500" height="350" />
 
 I exported all the relevant packets with Wireshark and got a 50mb json file...
 
@@ -114,6 +114,6 @@ p = input()
 I needed to choose the canvas size so high as I did not know how to properly downscale everything. <br/>
 The final result looks like this:
 
-<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Paint/flag.jpg" width="1000" height="100" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/Paint/flag.jpg?raw=true" width="1000" height="100" />
 
 Done!

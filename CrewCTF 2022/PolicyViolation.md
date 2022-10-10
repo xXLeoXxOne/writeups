@@ -10,7 +10,7 @@ We are given an Image. From previous challenges I knew, that files with a .E01 e
 The first part of the challenge is to find the exploit file and the Number & Date of its CVE.<br/>
 At first sight I can see that there are 3 files in the recycle bin. 
 
-<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/PolicyViolation/autopsy.jpg" width="600" height="320" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/PolicyViolation/autopsy.jpg?raw=true" width="600" height="320" />
 
 Lets export it and upload it to [virustotal](https://www.virustotal.com/).
 Success! Somebody (probably the challenge author or some kind of bot) has posted a comment with the CVE number to the [report](https://www.virustotal.com/gui/file/a1427cea9075350a8f60839c9244c8470c4c5ee996257f34d6195243b91e8c3d)
@@ -28,11 +28,11 @@ Before using that one, I first wanted to try to do it with https://github.com/PC
 
 To finally solve the challenge, I installed [PDFStreamDumper](http://sandsprite.com/blogs/index.php?pid=57&uid=7), highlighted the shellcode inside of the pdf (one of the objects at the left):
 
-<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/PolicyViolation/dumper.jpg" width="600" height="375" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/PolicyViolation/dumper.jpg?raw=true" width="600" height="375" />
 
 And then opened the Javascript UI to analyze the shellcode:
 
-<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/PolicyViolation/analysis.jpg" width="600" height="400" />
+<img src="https://github.com/xXLeoXxOne/writeups/blob/gh-pages/CrewCTF%202022/PolicyViolation/analysis.jpg?raw=true" width="600" height="400" />
 
 I ran it and got the IP as the output!
 
