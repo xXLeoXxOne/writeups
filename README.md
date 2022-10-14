@@ -13,6 +13,7 @@
 - #### [SCRAMBLE](CyberSecurityRumble%202022/SCRAMBLE.md)
 - #### [ROBERTISAGANGSTA](CyberSecurityRumble%202022/ROBERTISAGANGSTA.md)
 - #### [THREE LITTLE KEYS](CyberSecurityRumble%202022/THREE%20LITTLE%20KEYS.md)
+- #### [PDFCARNAGE](CyberSecurityRumble%202022/PDFCARNAGE.md)
 
 ### CrewCTF 2022
 - #### [Paint | Misc](CrewCTF%202022/Paint.md)
